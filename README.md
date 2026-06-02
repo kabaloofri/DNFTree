@@ -9,8 +9,8 @@ chmod +x dnftree
 now your all set!
 
 # Commands
-  -a, --all                  List every installed package
-  -u, --user, --userinstalled
-                            List only user-installed packages
-  -p, --package <name>       Show a specific package (fuzzy match)
-  -h, --help                 Show this help message
+
+ **-a, --all**: List every installed package <br><br>
+ **-u, --user, --userinstalled**: List only user-installed packages <br><br>
+ **-p, --package <name>**: Show a specific package (fuzzy match) <br><br>
+ **-h, --help**: Show commands and description
